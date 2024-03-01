@@ -1,0 +1,20 @@
+{
+  "name": "04_login-signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.22",
+    "sha1": "^1.1.1",
+    "uuid": "^8.3.2"
+  }
+}
